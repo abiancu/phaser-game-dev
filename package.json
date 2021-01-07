@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Learning game development with Phaser3 - A JS framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abiancu/phaser-game-dev.git"
+  },
+  "keywords": [
+    "game",
+    "development"
+  ],
+  "author": "Alejandro Biancucci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abiancu/phaser-game-dev/issues"
+  },
+  "homepage": "https://github.com/abiancu/phaser-game-dev#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
